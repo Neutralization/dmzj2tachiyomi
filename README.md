@@ -4,8 +4,9 @@
 
 ## 使用方式
 
-Cimoc备份路径在 sdcard\Cimoc\backup
-Tachiyomi备份路径在 sdcard\Download
+Cimoc备份路径在 `sdcard\Cimoc\backup`
+
+Tachiyomi备份路径在 `sdcard\Download`
 
 1. 网页端登录[动漫之家](https://i.dmzj.com/my)，找到自己的UID
 Cimoc用户可以跳过 2-4 直接导出cfbf文件，在Cimoc中选择恢复备份。
