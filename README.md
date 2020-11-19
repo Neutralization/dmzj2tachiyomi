@@ -26,5 +26,5 @@ Cimoc用户可以跳过 2-4 直接导出cfbf文件，在Cimoc中选择恢复备�
 
 ## 注意
 
-- Cimoc只确认了目前 [feilongfl](https://github.com/feilongfl/Cimoc)/[Haleydu](https://github.com/Haleydu/Cimoc) 维护的两个分支确认可正常导入，其他分支版本可自行测试，理论无异。
+- Cimoc只确认了目前 [feilongfl](https://github.com/feilongfl/Cimoc)/[Haleydu](https://github.com/Haleydu/Cimoc) 维护的两个分支可以正常导入，其他分支版本可自行测试，理论无异。
 - Tachiyomi导入时会联网获取章节信息，对于已失效的漫画会报错，属于正常现象，请查看报错内容自行核对。
