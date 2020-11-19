@@ -87,15 +87,15 @@ class transfer(object):
                                         textvariable=self.sourceIDBox)
         sourceIDBox_entered.grid(column=1, row=0)
 
-        ttk.Label(mainFrame, text='动漫之家 用户ID').grid(column=2, row=0)
+        ttk.Label(mainFrame, text='动漫之家 用户ID').grid(column=0, row=1)
         self.userIDBox = tk.StringVar()
         userIDBox_entered = ttk.Entry(mainFrame,
                                       width=20,
                                       textvariable=self.userIDBox)
-        userIDBox_entered.grid(column=3, row=0)
+        userIDBox_entered.grid(column=1, row=1)
 
         RunButton = ttk.Button(mainFrame, text='Start', command=self.run)
-        RunButton.grid(column=4, row=0)
+        RunButton.grid(column=2, row=1)
         window.mainloop()
 
 
